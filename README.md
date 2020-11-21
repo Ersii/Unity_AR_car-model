@@ -8,5 +8,5 @@ After installing and loading app, plane will be rendered on your screen than you
 and change color with buttons on left side of screen.
 
 ## Screens
-![screen1](https://user-images.githubusercontent.com/45428949/99575969-af435680-29d9-11eb-81dc-e0fa1d712014.jpg)
-![screen2](https://user-images.githubusercontent.com/45428949/99575970-afdbed00-29d9-11eb-895e-46a44809440d.jpg)
+![screen1](https://user-images.githubusercontent.com/45428949/99885677-23c70100-2c37-11eb-9093-846335bfac83.jpg)
+![screen2](https://user-images.githubusercontent.com/45428949/99885678-245f9780-2c37-11eb-9b8b-c9be2dc8b005.jpg)
